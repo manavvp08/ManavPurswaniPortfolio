@@ -1,0 +1,50 @@
+:root {
+  --main-bg-color: #080705;
+  --secondary-bg-color: #111111;
+  --main-text-color: #EFF1F3;
+
+  --accent-color-1: #C52233;
+  --light: #EFF1F3;
+  --dark: #080705;
+}
+
+
+.color-text{
+  color:var(--main-text-color);
+}
+
+
+.color-bg{
+  color:var(--main-bg-color);
+}
+
+
+.color-accent{
+  color:var(--accent-color-1)
+}
+.App {
+  text-align: center;
+}
+html{
+  background-color: var(--main-bg-color)!important;
+}
+body{
+  background-color:var(--main-bg-color)!important;
+  color:var(--main-text-color)!important;
+  -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.body:empty {
+  background: black;
+}
+
+
+@media (max-width: 500px) {
+  html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
