@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ManavPurswaniPortfolio/static/css/main.ea34a9c3.chunk.css",
+    "main.js": "/ManavPurswaniPortfolio/static/js/main.10884140.chunk.js",
+    "main.js.map": "/ManavPurswaniPortfolio/static/js/main.10884140.chunk.js.map",
+    "runtime-main.js": "/ManavPurswaniPortfolio/static/js/runtime-main.63f0f38b.js",
+    "runtime-main.js.map": "/ManavPurswaniPortfolio/static/js/runtime-main.63f0f38b.js.map",
+    "static/css/2.69233f45.chunk.css": "/ManavPurswaniPortfolio/static/css/2.69233f45.chunk.css",
+    "static/js/2.1e27345b.chunk.js": "/ManavPurswaniPortfolio/static/js/2.1e27345b.chunk.js",
+    "static/js/2.1e27345b.chunk.js.map": "/ManavPurswaniPortfolio/static/js/2.1e27345b.chunk.js.map",
+    "index.html": "/ManavPurswaniPortfolio/index.html",
+    "precache-manifest.f398cc0a97a9d08e634b0d47eeb76e1f.js": "/ManavPurswaniPortfolio/precache-manifest.f398cc0a97a9d08e634b0d47eeb76e1f.js",
+    "service-worker.js": "/ManavPurswaniPortfolio/service-worker.js",
+    "static/css/2.69233f45.chunk.css.map": "/ManavPurswaniPortfolio/static/css/2.69233f45.chunk.css.map",
+    "static/css/main.ea34a9c3.chunk.css.map": "/ManavPurswaniPortfolio/static/css/main.ea34a9c3.chunk.css.map",
+    "static/js/2.1e27345b.chunk.js.LICENSE.txt": "/ManavPurswaniPortfolio/static/js/2.1e27345b.chunk.js.LICENSE.txt",
+    "static/media/bubbles-together.png": "/ManavPurswaniPortfolio/static/media/bubbles-together.36b4ba6d.png",
+    "static/media/bubblify.png": "/ManavPurswaniPortfolio/static/media/bubblify.20e3ec16.png",
+    "static/media/color-game.png": "/ManavPurswaniPortfolio/static/media/color-game.00dcd0a9.png",
+    "static/media/daniel-profile.jpg": "/ManavPurswaniPortfolio/static/media/daniel-profile.167189ab.jpg",
+    "static/media/debug-duck.png": "/ManavPurswaniPortfolio/static/media/debug-duck.0db173e4.png",
+    "static/media/fractaltree.png": "/ManavPurswaniPortfolio/static/media/fractaltree.93a54274.png",
+    "static/media/SkillsSection.css": "/ManavPurswaniPortfolio/static/media/icons.68ff37b5.svg",
+    "static/media/pong.png": "/ManavPurswaniPortfolio/static/media/pong.3648b303.png",
+    "static/media/puzzle-game.PNG": "/ManavPurswaniPortfolio/static/media/puzzle-game.16dd7b3a.PNG",
+    "static/media/spiral-orbit.png": "/ManavPurswaniPortfolio/static/media/spiral-orbit.5b0cfaf1.png",
+    "static/media/tankmania.png": "/ManavPurswaniPortfolio/static/media/tankmania.b0e69915.png",
+    "static/media/todo-list.png": "/ManavPurswaniPortfolio/static/media/todo-list.a0bd6997.png",
+    "static/media/website.png": "/ManavPurswaniPortfolio/static/media/website.1e604d45.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f0f38b.js",
+    "static/css/2.69233f45.chunk.css",
+    "static/js/2.1e27345b.chunk.js",
+    "static/css/main.ea34a9c3.chunk.css",
+    "static/js/main.10884140.chunk.js"
+  ]
+}
