@@ -15,7 +15,7 @@ function CodeLine({info}) {
       {Object.keys(info).map((key, index) => (
         <div key={"code-line-"+key}>
           <span className="code-line">
-            <span className="code-key">>binoy.{key} </span>
+            <span className="code-key">manav.{key} </span>
             <span>
               {!Array.isArray(info[key]) ? (
                 <span>{info[key]}</span>
@@ -37,7 +37,7 @@ function CodeLine({info}) {
 
 function CodeWindow() {
   const sendEmail = () => {
-    window.open("mailto:dbinoy15@gmail.com");
+    window.open("mailto:manavp080@gmail.com");
   };
   return (
     <div onClick={sendEmail} className="code-window-wrapper">
@@ -49,7 +49,7 @@ function CodeWindow() {
       </div>
       <div className="code-window-content">
         <span className="code-command typewriter">
-          >import daniel-binoy as binoy
+          import manav-purswani as mp
         </span>
         <br />
         <CodeLine info={info}/>
@@ -93,7 +93,7 @@ function AboutSection() {
         <Container className="about-container text-center">
           <Row>
             <Col>
-              <ProfileImage />
+              
             </Col>
           </Row>
           <Row>
@@ -118,7 +118,7 @@ function AboutSection() {
                 <Container>
                   <Row>
                     <Col>
-                      <h2 id="hello">Hi, I'm Daniel!</h2>
+                      <h2 id="hello">Hi, I'm Manav !</h2>
                     </Col>
                   </Row>
                   <Row>

@@ -53,7 +53,7 @@ class LandingSection extends React.Component {
         <div className="landing-stuff text-center disable-dbl-tap-zoom">
           <Fade top>
             <h1 className="noselect" id="name-header" onClick={this.dark}>
-              Daniel Binoy
+              Manav Purswani
             </h1>
           </Fade>
 
